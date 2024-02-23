@@ -1,0 +1,29 @@
+.titulo {
+    text-align: center;
+    color: rgb(248, 240, 240);
+}
+.main-header {
+    background-color: brown;
+    padding: 20px;
+}
+.botao-carrinho2 {
+    margin-bottom: 10px;
+    background-color: brown;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 5px;
+}
+a:visited {
+    color: white;
+}
+a:link {
+    text-decoration: none;
+}
+.frete2 {
+    font-style: italic;
+    font-weight: bold;
+}
+body {
+    border-bottom: 10px solid brown;
+}
